@@ -3,7 +3,7 @@ jquery plugin to make a button look as a material button
 
 on your html
 <pre>
-   <a class="mbtn" data-color="#C5CAE9"> Login </a>
+   &lt; a class="mbtn" data-color="#C5CAE9" &gt; Login  &lt;/ a &gt;
 </pre>
 
 on js
